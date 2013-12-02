@@ -1,4 +1,4 @@
-# Mount
+# Mount [![BuildStatus](https://travis-ci.org/serverspec/mount)](http://travis-ci.org/serverspec/mount)
 
 TODO: Write a gem description
 
