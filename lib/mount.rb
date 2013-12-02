@@ -1,5 +1,4 @@
-require "mount/version"
-
 module Mount
-  # Your code goes here...
+  require 'mount/version'
+  require 'mount/command'
 end
